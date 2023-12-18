@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style-type: none;
+    box-sizing: border-box;
+}
+.container{
+    height: 50vh;
+    width: 100%;
+    border: 1px solid black;
+    outline: none;
+    background-color: brown;
+}
+.box{
+    height: 50px;
+    width: 150px;
+    border: 1px solid black;
+    background-color: burlywood;
+    display: flex;
+    outline: none;
+    justify-content: space-around;
+}
